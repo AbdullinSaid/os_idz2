@@ -1,0 +1,45 @@
+Reader 2 trying to take book 1
+Reader 0 trying to take book 0
+Reader 1 trying to take book 1
+Reader 2 took book 1
+Reader 0 took book 0
+Reader 2 returned book 1
+Reader 2 trying to take book 0
+Reader 1 took book 1
+Reader 0 returned book 0
+Reader 2 took book 0
+Reader 0 trying to take book 1
+Reader 2 returned book 0
+Reader 2 trying to take book 0
+Reader 2 took book 0
+Reader 1 returned book 1
+Reader 1 trying to take book 0
+Reader 0 took book 1
+Reader 2 returned book 0
+Reader 2 trying to take book 1
+Reader 1 took book 0
+Reader 0 returned book 1
+Reader 2 took book 1
+Reader 0 trying to take book 1
+Reader 1 returned book 0
+Reader 1 trying to take book 0
+Reader 1 took book 0
+Reader 2 returned book 1
+Reader 2 trying to take book 1
+Reader 0 took book 1
+Reader 1 returned book 0
+Reader 1 trying to take book 0
+Reader 1 took book 0
+Reader 0 returned book 1
+Reader 2 took book 1
+Reader 0 trying to take book 1
+Reader 2 returned book 1
+Reader 1 returned book 0
+Reader 1 trying to take book 0
+Reader 1 took book 0
+Reader 0 took book 1
+Reader 1 returned book 0
+Reader 0 returned book 1
+Reader 0 trying to take book 0
+Reader 0 took book 0
+Reader 0 returned book 0
