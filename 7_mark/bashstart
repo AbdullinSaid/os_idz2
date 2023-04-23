@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc 7_library.c -o library
+gcc 7_reader.c -o reader
+./library $1 & ./reader $1 0 & ./reader $1 1 & ./reader $1 2

@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc 8_library.c -o library8
+gcc 8_reader.c -o reader8
+./library8 $1 & ./reader8 $1 0 & ./reader8 $1 1 & ./reader8 $1 2
