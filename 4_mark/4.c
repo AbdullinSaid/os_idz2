@@ -5,6 +5,8 @@
 #include <sys/mman.h>
 #include <semaphore.h>
 #include <signal.h>
+#include <sys/wait.h>
+
 #define MAX_BOOKS 50
 
 sem_t *sem_books[MAX_BOOKS];
